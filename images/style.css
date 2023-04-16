@@ -1,0 +1,19 @@
+:root {
+    --bs-white: #fff;
+}
+
+.fa fa-instagram {
+    color:var(--bs-white);
+}
+
+.rounded {
+    height: 30px;
+    width: 30px;
+}
+
+#carouselExampleDark{
+    border-radius: 55px 55px 55px 55px;
+    overflow: hidden;
+    
+
+}
